@@ -12,4 +12,4 @@ services:
       - key: HF_PROVIDER
         value: novita
       - key: PYTHON_VERSION
-        value: 3.10.8
+        value: 3.13.5
